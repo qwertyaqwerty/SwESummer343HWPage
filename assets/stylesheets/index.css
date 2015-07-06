@@ -1,0 +1,18 @@
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td,hr,button,article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{margin:0;padding:0;}
+ol,ul {list-style:none;}
+a {text-decoration: none; color: #000;}
+a:hover {color: #00CCCC;}
+body {background-color: #22AACC; font-family: Arial, Sans-serif; }
+.nav-entry li { display:inline-block; }
+#header { color: #EEFFFF; }
+#page {padding: 30px; }
+#nav {margin-top: 10px; margin-bottom: 10px; background-color: #EEFFFF; border-radius: 10px; }
+#nav li {padding-top: 5px; padding-bottom: 5px; font-size: 20px; width: 20%; text-align: center; border-right-style: dotted; }
+.article-list li {font-size: 20px; padding: 10px; border-top-style: dotted;}
+.article-ref {padding: 10px; }
+.article-content p, .article-content h1, .article-content h2, .article-content h3, .article-content h4, .article-content h5 {padding: 10px;}
+.article-content a {text-decoration: underline; color:#0000FF; }
+.article-content {clear: both;}
+.article-list {background-color: #EEFFFF; border-radius: 10px; }
+.article-content {background-color: #EEFFFF; border-radius: 10px; }
+.floatimg {padding: 10px; }
